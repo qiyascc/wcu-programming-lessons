@@ -10,3 +10,5 @@
 
 // <-- This is a comment line character. Select and use ctrl+/ 
 
+// int x = 5; 
+// const double PI = 3.14 // <-- constant. 
