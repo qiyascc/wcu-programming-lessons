@@ -5,7 +5,7 @@ def calculate_roots(a, b, c):
     elif discriminant == 0:
         return -b / (2 * a),
     elif discriminant < 0:
-        return "Yoxdu"
+        return "No solution"
     else:
         sqrt_discriminant = discriminant ** 0.5
         return (-b + sqrt_discriminant) / (2 * a), (-b - sqrt_discriminant) / (2 * a)
