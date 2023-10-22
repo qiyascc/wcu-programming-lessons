@@ -12,5 +12,5 @@ The purpose of this repo is to keep the lessons, assignments - that is, the code
 
 ## Contributing
 
-Unfortunately, I cannot share all the resources because I have not taken all software courses. You can support us to learn and share together. You can take a look at the CONTRIBUTING.md file to learn how 
+Unfortunately, I cannot share all the resources because I have not taken all software courses. You can support us to learn and share together. You can take a look at the [CONTRIBUTING.md](https://github.com/qiyascc/wcu-programming-lessons/edit/main/CONTRIBUTING.md) file to learn how 
 to do it.
